@@ -8,7 +8,7 @@ Future<void> main() async {
   
   // Initialize Firebase with the Web options
   const firebaseOptions = FirebaseOptions(
-    apiKey: "AIzaSyDJhdXglS4au_lC3v24it7dQZ7C29os-qg",
+   
     appId: "1:889803755047:web:56af6c483cfbf035ed8802",
     messagingSenderId: "889803755047",
     projectId: "grievance-83b1c",
@@ -44,3 +44,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+
